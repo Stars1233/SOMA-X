@@ -5,7 +5,7 @@
 </p>
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Technical Report](https://img.shields.io/badge/Report-Tech_Report-green.svg)](https://research.nvidia.com/labs/dair/soma-x/soma-x-technical-report.pdf)
+[![Technical Report](https://img.shields.io/badge/arXiv-2603.16858-b31b1b.svg)](https://arxiv.org/abs/2603.16858)
 
 ## Overview
 
@@ -337,11 +337,11 @@ If you use this code in your work, please cite:
 ```bibtex
 @article{soma2026,
   title={SOMA: Unifying Parametric Human Body Models},
-  author={Jun Saito, Jiefeng Li, Michael de Ruyter, Miguel Guerrero, Edy Lim, Ehsan Hassani, Roger Blanco Ribera, Hyejin Moon, Magdalena Dadela, Marco Di Lucca, Qiao Wang, Jan Kautz, Simon Yuen, Umar Iqbal},
-  eprint={2603.XXXXX},
+  author={Jun Saito, Jiefeng Li, Michael de Ruyter, Miguel Guerrero, Edy Lim, Ehsan Hassani, Roger Blanco Ribera, Hyejin Moon, Magdalena Dadela, Marco Di Lucca, Qiao Wang, Xueting Li, Jan Kautz, Simon Yuen, Umar Iqbal},
+  eprint={2603.16858},
   archivePrefix={arXiv},
   year={2026},
-  url={https://arxiv.org/abs/2603.XXXXX},
+  url={https://arxiv.org/abs/2603.16858},
 }
 ```
 
