@@ -337,7 +337,7 @@ If you use this code in your work, please cite:
 ```bibtex
 @article{soma2026,
   title={SOMA: Unifying Parametric Human Body Models},
-  author={Jun Saito, Jiefeng Li, Michael de Ruyter, Miguel Guerrero, Edy Lim, Ehsan Hassani, Roger Blanco Ribera, Hyejin Moon, Magdalena Dadela, Marco Di Lucca, Qiao Wang, Xueting Li, Jan Kautz, Simon Yuen, Umar Iqbal},
+  author={Jun Saito and Jiefeng Li and Michael de Ruyter and Miguel Guerrero and Edy Lim and Ehsan Hassani and Roger Blanco Ribera and Hyejin Moon and Magdalena Dadela and Marco Di Lucca and Qiao Wang and  Xueting Li and Jan Kautz and Simon Yuen and Umar Iqbal},
   eprint={2603.16858},
   archivePrefix={arXiv},
   year={2026},
